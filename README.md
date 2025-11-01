@@ -42,11 +42,11 @@ package.json – Dependencies en scripts
 
 ## Gebruik
 
-Voeg pagina’s toe in app/ met een .tsx bestand.
+- Voeg pagina’s toe in app/ met een .tsx bestand.
 
-Pas layout aan in app/layout.tsx.
+- Pas layout aan in app/layout.tsx.
 
-Styling kan eenvoudig met Tailwind CSS-klassen.
+- Styling kan eenvoudig met Tailwind CSS-klassen.
 
 ## Live Demo
 
